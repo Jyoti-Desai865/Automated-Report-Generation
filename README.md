@@ -27,4 +27,5 @@ This automated report generation task is highly applicable in real-world scenari
 This task saves time, reduces human error, and ensures consistency in reporting. It's especially useful when working with large datasets or when reports must be generated periodically.
 
 *OUTPUT*:
+
 <img width="854" height="716" alt="Image" src="https://github.com/user-attachments/assets/b269339a-9df0-44c2-b0dd-3c56f00934a4" />
